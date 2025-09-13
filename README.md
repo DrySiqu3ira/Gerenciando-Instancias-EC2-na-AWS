@@ -18,7 +18,6 @@ O objetivo é consolidar os conhecimentos adquiridos no curso da DIO, demonstran
 As capturas de tela estão organizadas na pasta `/images`.  
 Exemplo de referência no README:  
 
-```markdown
-![Criação da Instância EC2](images/Captura_de_tela_2025-09-13.png)
+![Criação da Instância EC2](https://github.com/DrySiqu3ira/Gerenciando-Instancias-EC2-na-AWS/blob/main/images/Captura_de_tela_2025-09-13.png?raw=true)
 
 
