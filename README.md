@@ -1,4 +1,4 @@
-# ☁️ Desafio AWS – Gerenciamento de Instâncias Ec2
+# ☁️ Desafio AWS – Gerenciamento de Instâncias EC2
 
 Este repositório contém a documentação do **laboratório prático de AWS Cloud Foundations**, com foco no **gerenciamento de instâncias EC2**, criação e utilização de **AMIs (Amazon Machine Images)** e **Snapshots EBS**.  
 O objetivo é consolidar os conhecimentos adquiridos no curso da DIO, demonstrando na prática como utilizar recursos essenciais da AWS.
