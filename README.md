@@ -19,4 +19,6 @@ As capturas de tela estão organizadas na pasta `/images`.
 Exemplo de referência no README:  
 
 ```markdown
-![Criação da Instância EC2](images/Captura de tela 2025-09-13.png)
+![Criação da Instância EC2](images/Captura_de_tela_2025-09-13.png)
+
+
